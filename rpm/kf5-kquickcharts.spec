@@ -1,8 +1,8 @@
-%global kf5_version 5.105.0
+%global kf5_version 5.106.0
 
 Name: opt-kf5-kquickcharts
 Summary: A QtQuick module providing high-performance charts
-Version: 5.105.0
+Version: 5.106.0
 Release: 1%{?dist}
 
 # libs are LGPL, tools are GPL
